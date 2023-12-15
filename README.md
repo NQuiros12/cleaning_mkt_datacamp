@@ -1,6 +1,6 @@
-Project: Cleaning Bank Marketing Campaign Data for PostgreSQL Database
+# Project: Cleaning Bank Marketing Campaign Data for PostgreSQL Database
 
-Introduction:
+### Introduction:
 
 Personal loans are a major source of revenue for banks, with sizable interest rates generating significant profits. To optimize their marketing efforts and data analysis, banks need clean and structured data. This project involves cleaning and formatting data from a recent bank marketing campaign for a PostgreSQL database.
 
